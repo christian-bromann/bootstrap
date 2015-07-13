@@ -85,6 +85,9 @@ All settings can be provided as attributes in the `datepicker` or globally confi
     _(Default: false)_ :
     An option to disable or enable shortcut's event propagation.
 
+ * `days-of-month-only`
+    _(Default: false)_ :
+    If true datepicker will only show days of selected month
 
 ### Popup Settings ###
 
